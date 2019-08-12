@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@id/homeFragment"
+            android:title="@string/nav_home" />
+
+        <item
+            android:id="@id/searchFragment"
+            android:title="@android:string/search_go" />
+
+        <item
+            android:id="@id/uploadImageFragment"
+            android:title="@string/nav_upload_post" />
+
+        <item
+            android:id="@id/notificationsFragment"
+            android:title="@string/nav_notifications" />
+
+        <item
+            android:id="@id/profileFragment"
+            android:title="@string/nav_my_profile" />
+    </group>
+
+    <item android:title="@string/categories">
+        <menu>
+            <item
+                android:id="@+id/MoviesAndTVFeed"
+                android:title="@string/nav_movies_and_tv" />
+            <item
+                android:id="@+id/EducationMemesFeed"
+                android:title="@string/nav_education_memes" />
+            <item
+                android:id="@+id/DankMemesFeed"
+                android:title="@string/nav_dank_memes" />
+        </menu>
+    </item>
+</menu>
