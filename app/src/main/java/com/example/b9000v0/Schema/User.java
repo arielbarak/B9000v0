@@ -8,11 +8,22 @@ public class User {
     private String username;
     private String password_hash;
     private String email;
-    private String date_of_birth;
     private String bio;
-    private String first_name, last_name; //Full name
+    private String full_name;
 
     private List<String> following;
+
+    //TODO ADD PROFILE PICC
+    public User(String id, String username, String password_hash, String email, String bio, String full_name, List<String> following) {
+        this.id = id;
+        this.profile_Image_URL = profile_Image_URL;
+        this.username = username;
+        this.password_hash = password_hash;
+        this.email = email;
+        this.bio = bio;
+        this.full_name = full_name;
+        this.following = following;
+    }
 
 
     public String getId() {
@@ -55,28 +66,12 @@ public class User {
         this.email = email;
     }
 
-    public String getDate_of_birth() {
-        return date_of_birth;
+    public String getFull_name() {
+        return full_name;
     }
 
-    public void setDate_of_birth(String date_of_birth) {
-        this.date_of_birth = date_of_birth;
-    }
-
-    public String getFirst_name() {
-        return first_name;
-    }
-
-    public void setFirst_name(String first_name) {
-        this.first_name = first_name;
-    }
-
-    public String getLast_name() {
-        return last_name;
-    }
-
-    public void setLast_name(String last_name) {
-        this.last_name = last_name;
+    public void setFull_name(String full_name) {
+        this.full_name = full_name;
     }
 
     public List<String> getFollowing() {

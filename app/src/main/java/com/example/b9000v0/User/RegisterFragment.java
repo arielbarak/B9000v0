@@ -16,18 +16,25 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 
 import com.example.b9000v0.MainActivity;
+import com.example.b9000v0.Schema.User;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
+import com.google.common.net.InternetDomainName;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
 import com.example.b9000v0.R;
+import com.google.firebase.auth.UserProfileChangeRequest;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
 
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -46,6 +53,7 @@ public class RegisterFragment extends Fragment implements View.OnClickListener {
     private URL url_profile_pic; //TODO - FIX PIC UPLOADING!
     private Context context;
     private FirebaseUser current_user;
+    private DatabaseReference mDatabase;
 
     public RegisterFragment(Context context) {
         this.context = context;
@@ -86,7 +94,7 @@ public class RegisterFragment extends Fragment implements View.OnClickListener {
     //        login = (TextView) view.findViewById(R.id.already_user);
 //        terms_conditions = (CheckBox) view.findViewById(R.id.terms_conditions);
 
-        // Setting text selector over textviews
+    // Setting text selector over textviews
 //        XmlResourceParser xrp = getResources().getXml(R.drawable.text_selector);
 //        try {
 //            ColorStateList csl = ColorStateList.createFromXml(getResources(),
@@ -113,7 +121,7 @@ public class RegisterFragment extends Fragment implements View.OnClickListener {
             case R.id.tvLogin:
 
                 // Replace login fragment
-                new LoginFragment();//TODO - FIX
+                new LoginFragment(context);//TODO - Handle redirect
                 break;
         }
     }
@@ -121,11 +129,12 @@ public class RegisterFragment extends Fragment implements View.OnClickListener {
 
     private void checkValidation() {
         //Get all edittext texts
-        String fullName = etFullName.getText().toString();
-        String email = etEmail.getText().toString();
-        String password = etPassword.getText().toString();
-        String bio = etBio.getText().toString();
-        String username = etUsername.getText().toString();
+        final String fullName = etFullName.getText().toString();
+        final String email = etEmail.getText().toString();
+        final String password = etPassword.getText().toString();
+        final String bio = etBio.getText().toString();
+        final String username = etUsername.getText().toString();
+        final String[] name = fullName.split(" ");
 
         // Check if all strings are null or not
         if (fullName.equals("") || fullName.length() == 0
@@ -133,36 +142,28 @@ public class RegisterFragment extends Fragment implements View.OnClickListener {
                 || password.equals("") || password.length() < 6
                 || bio.equals("") || bio.length() == 0
                 || username.equals("") || username.length() == 0
+                || name[0].equals("") || name[1].equals(""))
 
-            Toast.makeText(context,"All fields are required.", Toast.LENGTH_SHORT).show();
-
-
-        MessageDigest digest = null;
-        try {
-            digest = MessageDigest.getInstance("SHA-256");
-        } catch (NoSuchAlgorithmException e) {
-            e.printStackTrace();
-        }
-        byte[] encoded_password_bytes = digest.digest(
-                password.getBytes(StandardCharsets.UTF_8));
-
-        final String password_hash = new String(encoded_password_bytes);;
+            Toast.makeText(context, "please make sure you fill everything, and your password is at least 6 charcters!", Toast.LENGTH_LONG).show();
 
         mAuth = FirebaseAuth.getInstance();
-        mAuth.createUserWithEmailAndPassword(email,password_hash).addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
+        mDatabase = FirebaseDatabase.getInstance().getReference();
+
+        mAuth.createUserWithEmailAndPassword(email, password).addOnCompleteListener(new OnCompleteListener<AuthResult>() {
             @Override
             public void onComplete(@NonNull Task<AuthResult> task) {
-                if(task.isSuccessful()){
+                if (task.isSuccessful()) {
                     Toast.makeText(context, "Succesfully Registerd to B9000", Toast.LENGTH_LONG).show();
-                    mAuth.signInWithEmailAndPassword(email, password_hash);
+                    mAuth.signInWithEmailAndPassword(email, password);
                     current_user = mAuth.getCurrentUser();
-                    if(current_user != null){
-
+                    if (current_user != null) {
+                        User user = new User(current_user.getUid(), username, password, email, bio, fullName, new ArrayList<String>());
+                        mDatabase.child("Users").child(current_user.getUid()).setValue(user);
+                        //TODO handle redirect
                     }
                 }
             }
-        })
-
-
+        });
     }
 }
+

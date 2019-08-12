@@ -12,6 +12,8 @@ MERGED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\HamutalB\.gradle
 MERGED from [com.google.firebase:firebase-firestore:20.2.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\ebf878b36bfe108ec719e48c307a4877\AndroidManifest.xml:2:1-26:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\830b52a66f90a783ad7547247050bcd1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\f92af0e8091db80fc27ffbd1dd32c209\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:16.0.7] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\67a6e966ea96f91e05e7942574278494\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database:16.0.6] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\0ec517482136185c9a22b554dc8a19fe\AndroidManifest.xml:15:1-27:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\660a0689dad1daf9dd654ff5bd15f360\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-fragment:2.1.0-alpha02] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\557802f038aa2d18c55f97ebeb29355d\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\cbaaa0ea354a2cf2c8122c4a3b162805\AndroidManifest.xml:17:1-22:12
@@ -20,12 +22,22 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HamutalB\.grad
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\1f14ac960ed953594b65270fec0a36d0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\6cfffa406734260a83f3ac48fed5f5f1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2a703b9edbee84cf51d32ceb90891b7a\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2ccc8749a8bba250ebe854a851127e71\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\c188a1c3d88ff46c1ba231110a95cdae\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\4d213b3d1b8c048105621024b435cb54\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:17:1-59:12
 MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\1505e8b5b4078fe5187d97959e920aa0\AndroidManifest.xml:2:1-19:12
 MERGED from [androidx.transition:transition:1.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\f6b3c98c8aa1bcca79284a29747b8c5b\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\45434b1921f4c8ed1c9435faa2f2b068\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.media:media:1.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\fd4cac456c742e8219fe86a3075c72ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\1e3eca0eae1c4d72b9d395450439f345\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\373a1b9037bbcc05fbb9c40f55be9f1d\AndroidManifest.xml:17:1-29:12
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\512d3629441f34b1c36be22e080f23e3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\f7d8ff6e957d00ab72fb62a4c83cd1fb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\a45076fa33923e7dcbf134620d22546e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\ccc6c7356a8e0b590e2596c48210b42b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\adde38a4006ab8eacf0fa1ed507c7467\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2855a89714f3d2154175275455833fc0\AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.fragment:fragment:1.1.0-alpha06] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\518d4cd7f5acd9cc66e55256c2e012c2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2bebf612c69406fe8ac4cf6205f8315e\AndroidManifest.xml:17:1-22:12
@@ -80,14 +92,36 @@ MERGED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\HamutalB\.gradle
 MERGED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\1f815f254c9ab74343e9d25d772561e1\AndroidManifest.xml:23:5-40:19
 MERGED from [com.google.firebase:firebase-firestore:20.2.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\ebf878b36bfe108ec719e48c307a4877\AndroidManifest.xml:16:5-24:19
 MERGED from [com.google.firebase:firebase-firestore:20.2.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\ebf878b36bfe108ec719e48c307a4877\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-core:16.0.7] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\67a6e966ea96f91e05e7942574278494\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.7] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\67a6e966ea96f91e05e7942574278494\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2a703b9edbee84cf51d32ceb90891b7a\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2a703b9edbee84cf51d32ceb90891b7a\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2ccc8749a8bba250ebe854a851127e71\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2ccc8749a8bba250ebe854a851127e71\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\c188a1c3d88ff46c1ba231110a95cdae\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\c188a1c3d88ff46c1ba231110a95cdae\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\4d213b3d1b8c048105621024b435cb54\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\4d213b3d1b8c048105621024b435cb54\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:28:5-57:19
 MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\1505e8b5b4078fe5187d97959e920aa0\AndroidManifest.xml:11:5-17:19
 MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\1505e8b5b4078fe5187d97959e920aa0\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\1e3eca0eae1c4d72b9d395450439f345\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\1e3eca0eae1c4d72b9d395450439f345\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\373a1b9037bbcc05fbb9c40f55be9f1d\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\373a1b9037bbcc05fbb9c40f55be9f1d\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\512d3629441f34b1c36be22e080f23e3\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\512d3629441f34b1c36be22e080f23e3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\f7d8ff6e957d00ab72fb62a4c83cd1fb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\f7d8ff6e957d00ab72fb62a4c83cd1fb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\a45076fa33923e7dcbf134620d22546e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\a45076fa33923e7dcbf134620d22546e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\ccc6c7356a8e0b590e2596c48210b42b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\ccc6c7356a8e0b590e2596c48210b42b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\adde38a4006ab8eacf0fa1ed507c7467\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\adde38a4006ab8eacf0fa1ed507c7467\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2855a89714f3d2154175275455833fc0\AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2855a89714f3d2154175275455833fc0\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\d66f1c7d079c823ea5388f4422d7e18d\AndroidManifest.xml:22:5-89
@@ -142,6 +176,10 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Ham
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\830b52a66f90a783ad7547247050bcd1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\f92af0e8091db80fc27ffbd1dd32c209\AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\f92af0e8091db80fc27ffbd1dd32c209\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.7] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\67a6e966ea96f91e05e7942574278494\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.7] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\67a6e966ea96f91e05e7942574278494\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.6] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\0ec517482136185c9a22b554dc8a19fe\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.6] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\0ec517482136185c9a22b554dc8a19fe\AndroidManifest.xml:18:5-20:41
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\660a0689dad1daf9dd654ff5bd15f360\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\660a0689dad1daf9dd654ff5bd15f360\AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-fragment:2.1.0-alpha02] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\557802f038aa2d18c55f97ebeb29355d\AndroidManifest.xml:20:5-44
@@ -158,6 +196,16 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\6cfffa406734260a83f3ac48fed5f5f1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2a703b9edbee84cf51d32ceb90891b7a\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2a703b9edbee84cf51d32ceb90891b7a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2ccc8749a8bba250ebe854a851127e71\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2ccc8749a8bba250ebe854a851127e71\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\c188a1c3d88ff46c1ba231110a95cdae\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\c188a1c3d88ff46c1ba231110a95cdae\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\4d213b3d1b8c048105621024b435cb54\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\4d213b3d1b8c048105621024b435cb54\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\1505e8b5b4078fe5187d97959e920aa0\AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\1505e8b5b4078fe5187d97959e920aa0\AndroidManifest.xml:6:5-8:41
 MERGED from [androidx.transition:transition:1.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\f6b3c98c8aa1bcca79284a29747b8c5b\AndroidManifest.xml:20:5-44
@@ -166,10 +214,20 @@ MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HamutalB\.gradle\caches\
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\45434b1921f4c8ed1c9435faa2f2b068\AndroidManifest.xml:20:5-44
 MERGED from [androidx.media:media:1.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\fd4cac456c742e8219fe86a3075c72ee\AndroidManifest.xml:20:5-44
 MERGED from [androidx.media:media:1.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\fd4cac456c742e8219fe86a3075c72ee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\1e3eca0eae1c4d72b9d395450439f345\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\1e3eca0eae1c4d72b9d395450439f345\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\373a1b9037bbcc05fbb9c40f55be9f1d\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\373a1b9037bbcc05fbb9c40f55be9f1d\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\512d3629441f34b1c36be22e080f23e3\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\512d3629441f34b1c36be22e080f23e3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\f7d8ff6e957d00ab72fb62a4c83cd1fb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\f7d8ff6e957d00ab72fb62a4c83cd1fb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\a45076fa33923e7dcbf134620d22546e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\a45076fa33923e7dcbf134620d22546e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\ccc6c7356a8e0b590e2596c48210b42b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\ccc6c7356a8e0b590e2596c48210b42b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\adde38a4006ab8eacf0fa1ed507c7467\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\adde38a4006ab8eacf0fa1ed507c7467\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2855a89714f3d2154175275455833fc0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2855a89714f3d2154175275455833fc0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.1.0-alpha06] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\518d4cd7f5acd9cc66e55256c2e012c2\AndroidManifest.xml:20:5-44
@@ -254,6 +312,10 @@ service#com.google.firebase.components.ComponentDiscoveryService
 ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\1f815f254c9ab74343e9d25d772561e1\AndroidManifest.xml:33:9-39:19
 MERGED from [com.google.firebase:firebase-firestore:20.2.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\ebf878b36bfe108ec719e48c307a4877\AndroidManifest.xml:17:9-23:19
 MERGED from [com.google.firebase:firebase-firestore:20.2.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\ebf878b36bfe108ec719e48c307a4877\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2ccc8749a8bba250ebe854a851127e71\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2ccc8749a8bba250ebe854a851127e71\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:29:9-35:19
 	android:exported
 		ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\1f815f254c9ab74343e9d25d772561e1\AndroidManifest.xml:35:13-37
 	android:name
@@ -266,12 +328,32 @@ ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\HamutalB\.gradle\
 		ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\1f815f254c9ab74343e9d25d772561e1\AndroidManifest.xml:37:17-109
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-firestore:20.2.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\ebf878b36bfe108ec719e48c307a4877\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.6] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\0ec517482136185c9a22b554dc8a19fe\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.6] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\0ec517482136185c9a22b554dc8a19fe\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2ccc8749a8bba250ebe854a851127e71\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2ccc8749a8bba250ebe854a851127e71\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\4d213b3d1b8c048105621024b435cb54\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\4d213b3d1b8c048105621024b435cb54\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:22:5-79
 MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\d7b4deb15568080313232d2b86aea742\AndroidManifest.xml:11:5-79
 MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\d7b4deb15568080313232d2b86aea742\AndroidManifest.xml:11:5-79
 	android:name
 		ADDED from [com.google.firebase:firebase-firestore:20.2.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\ebf878b36bfe108ec719e48c307a4877\AndroidManifest.xml:13:22-76
 uses-permission#android.permission.INTERNET
 ADDED from [com.google.firebase:firebase-firestore:20.2.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\ebf878b36bfe108ec719e48c307a4877\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.6] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\0ec517482136185c9a22b554dc8a19fe\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.6] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\0ec517482136185c9a22b554dc8a19fe\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2ccc8749a8bba250ebe854a851127e71\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2ccc8749a8bba250ebe854a851127e71\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\4d213b3d1b8c048105621024b435cb54\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\4d213b3d1b8c048105621024b435cb54\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from [com.google.firebase:firebase-firestore:20.2.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\ebf878b36bfe108ec719e48c307a4877\AndroidManifest.xml:14:22-64
 meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
@@ -280,6 +362,110 @@ ADDED from [com.google.firebase:firebase-firestore:20.2.0] C:\Users\HamutalB\.gr
 		ADDED from [com.google.firebase:firebase-firestore:20.2.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\ebf878b36bfe108ec719e48c307a4877\AndroidManifest.xml:22:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-firestore:20.2.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\ebf878b36bfe108ec719e48c307a4877\AndroidManifest.xml:21:17-111
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2ccc8749a8bba250ebe854a851127e71\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\4d213b3d1b8c048105621024b435cb54\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\4d213b3d1b8c048105621024b435cb54\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2ccc8749a8bba250ebe854a851127e71\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2ccc8749a8bba250ebe854a851127e71\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2ccc8749a8bba250ebe854a851127e71\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\2ccc8749a8bba250ebe854a851127e71\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\4d213b3d1b8c048105621024b435cb54\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\4d213b3d1b8c048105621024b435cb54\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\4d213b3d1b8c048105621024b435cb54\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\4d213b3d1b8c048105621024b435cb54\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\792ef4cdcb62f4cbf2b519eea6eb19cc\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\7bddb7e0ead39833f09b0e79735ef014\AndroidManifest.xml:54:25-77
 provider#com.google.firebase.provider.FirebaseInitProvider
 ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\1505e8b5b4078fe5187d97959e920aa0\AndroidManifest.xml:12:9-16:39
 	android:authorities

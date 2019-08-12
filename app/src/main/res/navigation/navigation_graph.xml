@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/nav_graph"
-    app:startDestination="@id/homeFragment">
+    app:startDestination="@+id/homeFragment">
 
     <fragment
         android:id="@+id/homeFragment"
@@ -12,13 +12,13 @@
         tools:layout="@layout/fragment_home">
         <action
             android:id="@+id/action_homeFragment_to_profileFragment"
-            app:destination="@id/profileFragment" />
+            app:destination="@+id/profileFragment" />
         <action
             android:id="@+id/action_homeFragment_to_commentsFragment"
-            app:destination="@id/commentsFragment" />
+            app:destination="@+id/commentsFragment" />
         <action
             android:id="@+id/action_homeFragment_to_searchFragment"
-            app:destination="@id/searchFragment" />
+            app:destination="@+id/searchFragment" />
     </fragment>
     <fragment
         android:id="@+id/searchFragment"
@@ -27,7 +27,7 @@
         tools:layout="@layout/fragment_search">
         <action
             android:id="@+id/action_searchFragment_to_profileFragment"
-            app:destination="@id/profileFragment" />
+            app:destination="@+id/profileFragment" />
     </fragment>
     <fragment
         android:id="@+id/uploadImageFragment"
@@ -41,7 +41,7 @@
         tools:layout="@layout/fragment_notifications">
         <action
             android:id="@+id/action_notificationsFragment_to_profileFragment"
-            app:destination="@id/profileFragment" />
+            app:destination="@+id/profileFragment" />
     </fragment>
     <fragment
         android:id="@+id/profileFragment"
@@ -50,10 +50,10 @@
         tools:layout="@layout/fragment_profile">
         <action
             android:id="@+id/action_profileFragment_to_commentsFragment"
-            app:destination="@id/commentsFragment"/>
+            app:destination="@+id/commentsFragment"/>
         <action
             android:id="@+id/action_profileFragment_to_post"
-            app:destination="@id/post" />
+            app:destination="@+id/post" />
     </fragment>
     <fragment
         android:id="@+id/commentsFragment"

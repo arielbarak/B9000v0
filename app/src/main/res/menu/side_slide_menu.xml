@@ -3,23 +3,23 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@id/homeFragment"
+            android:id="@+id/homeFragment"
             android:title="@string/nav_home" />
 
         <item
-            android:id="@id/searchFragment"
+            android:id="@+id/searchFragment"
             android:title="@android:string/search_go" />
 
         <item
-            android:id="@id/uploadImageFragment"
+            android:id="@+id/uploadImageFragment"
             android:title="@string/nav_upload_post" />
 
         <item
-            android:id="@id/notificationsFragment"
+            android:id="@+id/notificationsFragment"
             android:title="@string/nav_notifications" />
 
         <item
-            android:id="@id/profileFragment"
+            android:id="@+id/profileFragment"
             android:title="@string/nav_my_profile" />
     </group>
 

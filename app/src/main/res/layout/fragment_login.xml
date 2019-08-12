@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical"
-    android:gravity ="center"
+    android:gravity="center"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
@@ -52,13 +52,42 @@
         android:inputType="textPassword"
         android:layout_height="wrap_content" />
 
+    <CheckBox
+        android:id="@+id/cbShowHidePassword"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="10dp"
+        android:text="Show/Hide Password"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        tools:ignore="HardcodedText" />
+
     <Button
-        android:id="@+id/bSignIn"
+        android:id="@+id/btLogin"
         android:text="Login"
         android:layout_width="match_parent"
         android:textColor="@android:color/black"
         android:textSize="16"
         android:background="@drawable/button_design"
+        android:layout_height="wrap_content"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/tvRegister"
+        android:text="Not a member yet? REGISTER HERE"
+        android:layout_width="match_parent"
+        android:textColor="@android:color/black"
+        android:textSize="16"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/tvForgotPassword"
+        android:text="Forgot Your Password? Click Here"
+        android:layout_width="match_parent"
+        android:textColor="@android:color/black"
+        android:textSize="12"
+        android:gravity="center"
         android:layout_height="wrap_content"
         tools:ignore="HardcodedText" />
 
